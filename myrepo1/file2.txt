@@ -1,0 +1,2 @@
+file 2 content --single line 
+Second line in second file
